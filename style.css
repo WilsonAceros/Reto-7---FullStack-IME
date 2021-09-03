@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ebebeb;
+}
+
+
+h1{
+    text-align: center;
+    padding: 20px;
+}
+
+h2{
+    padding: 5px;
+    margin: 20px;
+    color: red;
+    background-color: gray;
+}
+
+.personales{
+    background-color: #d3d3d3;
+    margin: 20px;
+}
+
+.personales div{
+    display: flex;
+
+}
+
+.personales p{
+    margin-left: 5px;
+
+}
+
+.p1{
+    color: blue;
+}
+
+.exp{
+    background-color: #d3d3d3;
+    margin: 20px;
+}
+
+.exp div{
+    display: flex;
+
+}
+
+.exp p{
+    margin-left: 5px;
+
+}
+
+.p2{
+    color: green;
+}
+
+.educa{
+    background-color: #d3d3d3;
+    margin: 20px;
+}
+
+.educa div{
+    display: flex;
+
+}
+
+.educa p{
+    margin-left: 5px;
+
+}
+
+.p3{
+    color: green;
+}
+
+h3{
+    padding: 5px;
+    margin: 20px;
+    color: rgb(168, 0, 168);
+    background-color: gray;
+}
+
+.idioms{
+    background-color: #d3d3d3;
+    margin: 20px;
+}
+
+.idioms div{
+    display: flex;
+}
+
+.idioms p{
+    margin-left: 5px;
+}
+
+.p4{
+    color: blue;
+}
+
+.organiza{
+    background-color: #d3d3d3;
+    margin: 20px;
+}
+
+.organiza p{
+    color: green;
+}
+
+.tec{
+    background-color: #d3d3d3;
+    margin: 20px;
+}
+
+.conduc{
+    background-color: #d3d3d3;
+    margin: 20px;
+}
+
+.soport{
+    background-color: #d3d3d3;
+    margin: 20px;
+}
